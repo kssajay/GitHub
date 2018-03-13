@@ -1,1 +1,3 @@
 Git is a distributed revision control and source code management system
+Version Control System (VCS) is a software that helps software developers
+to work together and maintain a complete history of their work.
