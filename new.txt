@@ -1,0 +1,9 @@
+Git SetUp Step by Step using bash command
+
+Create GitHub Account
+
+Download GitHub software and install
+
+Open GitBash
+
+Git init new branch name
